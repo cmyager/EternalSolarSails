@@ -1,0 +1,7 @@
+{
+    "name": "EternalSolarSails",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/cmyager/EternalSolarSails",
+    "description": "A mod for the game Dyson Sphere Program that makes solar sails last forever.",
+    "dependencies": []
+}
